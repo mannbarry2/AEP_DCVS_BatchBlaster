@@ -1,0 +1,47 @@
+DCVS_Error_Code,Message,evar245,Count
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,search e400 softcrylic,20051
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,search sdk - cloud,5990
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,search softrcylic,4443
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,pdp link tracking softcrylic,2370
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,track form complete sdk - cloud,2045
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,track form error xdm,1954
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,page view my account softcrylic,1494
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,link tracking sdk,1417
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/productListItems: expected type: JSONArray, found: String.",file download xdm,1065
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,delivery view sdk softcrylic,667
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,product view sdk - cloud,450
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/productListItems/0: required key [SKU] not found.,file download xdm,257
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,track delivery button impression softcylic,215
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,availability check xdm,136
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,track delivery button click softcrylic,77
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/_experience/analytics/event101to200/event184/value: expected type: Number, found: String.",sample cart add xdm,54
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,scPurchase xdm,35
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found., search clear filters clear click softcrylic ,26
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,scroll 50 event sdk - cloud,17
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,cart cancel xdm,12
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/productListItems/0/priceTotal: expected type: Number, found: Null.",availability check sdk - cloud,11
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/productListItems/0: required key [SKU] not found.,cart entries sdk - cloud,10
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/productListItems/0/quantity: expected type: Integer, found: Double.",component link tracking xdm,9
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,scroll 100 event sdk - cloud,8
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/productListItems/0/quantity: expected type: Integer, found: Double.",scPurchase xdm,8
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/productListItems/0/quantity: expected type: Integer, found: Double.",scCheckouts sdk - cloud,8
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/_experience/analytics/event101to200/event182/value: expected type: Number, found: Null.",sample cart complete xdm,7
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event25: required key [value] not found.,page view sdk - microsite,7
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event19: required key [value] not found.,page view sdk - microsite,6
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event25: required key [value] not found.,video milestone sdk - microsite,5
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event19: required key [value] not found.,video interaction sdk - microsite,4
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event26: required key [value] not found.,video milestone sdk - microsite,3
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event25: required key [value] not found.,link click sdk - microsite,3
+DCVS-1103-400,The message cannot be validated due to the pattern mismatch error: #/commerce/order/currencyCode: string [R$] does not match pattern ^[A-Z]{3}$.,scPurchase xdm,2
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,track form start sdk - cloud,2
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/customDimensions/eVars: required key [eVar14] not found.,track form continue sdk - cloud,2
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/productListItems/0/quantity: expected type: Integer, found: Double.",scCheckouts xdm,2
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event19: required key [value] not found.,link click sdk - microsite,1
+DCVS-1103-400,The message cannot be validated due to the pattern mismatch error: #/commerce/order/currencyCode: string [원] does not match pattern ^[A-Z]{3}$.,scPurchase xdm,1
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/_experience/analytics/customDimensions/eVars/eVar89: expected type: String, found: JSONObject.",file download xdm,1
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event25: required key [value] not found.,scroll 100 sdk - microsite xdm,1
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/_experience/analytics/event1to100/event25: required key [value] not found.,scroll 50 sdk - microsite,1
+DCVS-1104-400,"The message cannot be validated due to the data type error: #/productListItems/0/priceTotal: expected type: Number, found: Null.",scOpen sdk - cloud,1
+DCVS-1103-400,The message cannot be validated due to the pattern mismatch error: #/commerce/order/currencyCode: string [元] does not match pattern ^[A-Z]{3}$.,scPurchase xdm,1
+DCVS-1106-400,The message cannot be validated because a required property is missing: #/productListItems/0: required key [SKU] not found.,component link tracking xdm,1
+DCVS-1103-400,The message cannot be validated due to the pattern mismatch error: #/commerce/order/currencyCode: string [eur] does not match pattern ^[A-Z]{3}$.,scPurchase xdm,1
